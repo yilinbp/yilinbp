@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-$y^2 = x^3 + ax + b$
+
 
 <!--
+$y^2 = x^3 + ax + b$
 **yilinbp/yilinbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
